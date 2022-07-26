@@ -1,0 +1,16 @@
+﻿{
+  "Id": "QNNM2apImUKiRHMTxTxc7g",
+  "Reference": "YvnBc0cK-EazQu_Jlgx_hw/QNNM2apImUKiRHMTxTxc7g",
+  "ParentRef": "YvnBc0cK-EazQu_Jlgx_hw/i9IaAJIPc0ORR5KndIMAhw",
+  "Name": "Role in Company",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-07-26T09:55:02.88756Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-26T09:56:32.6980316Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "TXsw6r8qkky11pOqdQ_Rog",
+  "Reference": "YvnBc0cK-EazQu_Jlgx_hw/TXsw6r8qkky11pOqdQ_Rog",
+  "ParentRef": "YvnBc0cK-EazQu_Jlgx_hw/i9IaAJIPc0ORR5KndIMAhw",
+  "Name": "Last Name",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-07-26T10:05:57.7872123Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-26T10:05:57.7872123Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "XcjjZBvihkGPnsbUi7sejg",
+  "Reference": "YvnBc0cK-EazQu_Jlgx_hw/XcjjZBvihkGPnsbUi7sejg",
+  "ParentRef": "YvnBc0cK-EazQu_Jlgx_hw/i9IaAJIPc0ORR5KndIMAhw",
+  "Name": "Phone Number",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-07-26T10:23:16.9942367Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-26T10:23:16.9942367Z"
+}
